@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Building Apps.**
+- 🌱 I’m currently learning **Web Development and building Apps.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
