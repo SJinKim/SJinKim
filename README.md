@@ -64,10 +64,12 @@
 
 ## Connect with me:
 
-<p align="left">
+<p align="center">
 
 <!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
-<!-- <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+
+
+<a href = "mailto:kim.seungjin1207@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-sign.png"/></a>
 
 <a href = "https://www.instagram.com/__kimsseung/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
