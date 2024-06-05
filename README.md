@@ -64,17 +64,10 @@
 
 ## Connect with me:
 
-<p align="center">
-
-<!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
-
-
-<a href = "mailto:kim.seungjin1207@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-sign.png"/></a>
-
-<a href = "https://www.instagram.com/__kimsseung/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
+<p align="">
+    <a href = "https://www.linkedin.com/in/seung-jin-kim-4740b7211/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://www.instagram.com/__kimsseung/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "mailto:kim.seungjin1207@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-sign.png"/></a>
 </p>
 
 <!-- ## ❤ Views and Followers
